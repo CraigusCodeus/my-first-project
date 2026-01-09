@@ -15,3 +15,6 @@ h2 {
 p {
     font-weight: bold;
 }
+div {
+    background-color: rgba(108, 126, 187, 0.575);
+}
